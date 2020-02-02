@@ -3,7 +3,14 @@
     text-align: center;
 }
 
-
+.name{
+    border: 1px solid black;
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:500px;
+    margin-right:500px;
+    padding: 10px 10px 10px 10px;
+}
 
 .image{
   display: block;
@@ -12,6 +19,12 @@
   width: 25%;
 }
 
+.intro{
+    padding:20px 20px 20px 20px;
+    margin-left:400px;
+    margin-right:400px;
+
+}
 
 .button {
     background-color: #4CAF50; /* Green */
@@ -22,4 +35,8 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+  }
+
+  a:hover{
+      color:blue;
   }
