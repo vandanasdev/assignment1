@@ -1,3 +1,4 @@
+import 'css/style.css'
 
 const element = (
     <div title="Outer div">
