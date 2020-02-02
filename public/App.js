@@ -3,7 +3,7 @@
 var element = React.createElement("div", {
   title: "Outer div"
 }, React.createElement("div", {
-  className: "name"
+  className: "name1"
 }, "Vandana Singh"), React.createElement("img", {
   className: "image",
   src: "/images/vandanaProfilePic.png"
