@@ -1,4 +1,9 @@
-.name1{
+
+body {
+    color: blue;
+  }
+  
+  .name1{
     text-align: center;
     color: red;
 }
