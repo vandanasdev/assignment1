@@ -1,7 +1,5 @@
 "use strict";
 
-require("css/style.css");
-
 var element = React.createElement("div", {
   title: "Outer div"
 }, React.createElement("div", {
